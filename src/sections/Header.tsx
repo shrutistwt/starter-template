@@ -28,7 +28,7 @@ const navItems = [
 const Header: FC = () => {
   return <header>
     <div className="container !max-w-full">
-      <div className="flex justify-between h-20 items-center">
+      <div className="flex justify-between h-10 items-center">
         <div>
           <a href="/">
           <span className="text-xl font-bold uppercase">Alex&nbsp; Taylor</span>
